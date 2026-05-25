@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.15] - 2026-05-25
+🎉 fix auto batch, fix proxy video generation task, and update Ai chat...
+
 ## [v2.4.14] - 2026-05-23
 🎉 fix tts task, sync mode, add new gemini translate provider, add export srt custom, fix some bugs...
 
