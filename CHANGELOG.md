@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.16] - 2026-05-26
+🎉 fix ocr engine, fix tts task, update UI, and some other minor bugs...
+
 ## [v2.4.15] - 2026-05-25
 🎉 fix auto batch, fix proxy video generation task, and update Ai chat...
 
