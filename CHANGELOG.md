@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.17] - 2026-05-27
+🚀 fix render batch mode, fix auto batch job, and some other minor bugs...
+
 ## [v2.4.16] - 2026-05-26
 🎉 fix ocr engine, fix tts task, update UI, and some other minor bugs...
 
