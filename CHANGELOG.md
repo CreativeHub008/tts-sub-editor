@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.18] - 2026-05-29
+🚀 fix audio subtitle extrack, update chat ui, and some other minor bugs...
+
 ## [v2.4.17] - 2026-05-27
 🚀 fix render batch mode, fix auto batch job, and some other minor bugs...
 
