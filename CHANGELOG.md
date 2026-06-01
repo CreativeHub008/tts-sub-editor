@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.20] - 2026-06-01
+🎉 fix timeline, add color tab, vlm video extrack and fix some bugs...
+
 ## [v2.4.18] - 2026-05-29
 🚀 fix audio subtitle extrack, update chat ui, and some other minor bugs...
 
