@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.22] - 2026-06-03
+🎉 update ocr engine, add nano model and some other minor bugs...
+
 ## [v2.4.20] - 2026-06-01
 🎉 fix timeline, add color tab, vlm video extrack and fix some bugs...
 
