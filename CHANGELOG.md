@@ -1,5 +1,9 @@
 # 🧾 Change Log
 
+## [v2.4.23] - 2026-06-05
+🎉 fix project load bug, update ocr engine and some other minor bugs...
+
+
 ## [v2.4.22] - 2026-06-03
 🎉 update ocr engine, add nano model and some other minor bugs...
 
