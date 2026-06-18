@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.30] - 2026-06-18
+🎉 fix tts task, and some other minor bugs...
+
 ## [v2.4.29] - 2026-06-16
 🎉 fix tts task, diarization, some other minor bugs...
 
