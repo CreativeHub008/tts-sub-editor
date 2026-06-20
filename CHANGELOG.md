@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.31] - 2026-06-20
+🎉 fix native render, preview, timeline, tts task some other minor bugs...
+
 ## [v2.4.30] - 2026-06-18
 🎉 fix tts task, and some other minor bugs...
 
