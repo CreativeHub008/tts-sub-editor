@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.32] - 2026-06-21
+🎉 add split audio file and fix some other minor bugs...
+
 ## [v2.4.31] - 2026-06-20
 🎉 fix native render, preview, timeline, tts task some other minor bugs...
 
