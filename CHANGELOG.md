@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.33] - 2026-06-23
+🎉 fix native render, add custom srt path and fix some other minor bugs...
+
 ## [v2.4.32] - 2026-06-21
 🎉 add split audio file and fix some other minor bugs...
 
