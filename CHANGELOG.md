@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.34] - 2026-06-24
+🎉 fix native render, update timeline and save project option and some other minor bugs...
+
 ## [v2.4.33] - 2026-06-23
 🎉 fix native render, add custom srt path and fix some other minor bugs...
 
