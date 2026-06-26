@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.37] - 2026-06-26
+🎉 fix render, split audio, Preview playback and some other minor bugs...
+
 ## [v2.4.35] - 2026-06-25
 🎉 update color/lut, render and fix some other minor bugs...
 
