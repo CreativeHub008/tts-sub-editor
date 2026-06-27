@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.38] - 2026-06-27
+🎉 fix update native render, preview, timeline and new Cloud STT and some other minor bugs and changes...
+
 ## [v2.4.37] - 2026-06-26
 🎉 fix render, split audio, Preview playback and some other minor bugs...
 
