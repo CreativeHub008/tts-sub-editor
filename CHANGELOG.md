@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.39] - 2026-06-28
+🎉 Fixed a few minor download-related bugs.
+
 ## [v2.4.38] - 2026-06-27
 🎉 fix update download, native render, preview, timeline and new Cloud STT and some other minor bugs and changes...
 
