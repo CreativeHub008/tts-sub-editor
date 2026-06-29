@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.40] - 2026-06-29
+🎉 fix update download, public chat and fix some other minor bugs... 
+
 ## [v2.4.39] - 2026-06-28
 🎉 Fixed a few minor download-related bugs.
 
