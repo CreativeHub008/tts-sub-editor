@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.41] - 2026-07-01
+🎉 fix download tab, fix tts task, timeline and some other minor bugs... 
+
 ## [v2.4.40] - 2026-06-29
 🎉 fix update download, public chat and fix some other minor bugs... 
 
