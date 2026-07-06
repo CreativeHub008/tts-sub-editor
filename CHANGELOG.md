@@ -1,6 +1,6 @@
 # 🧾 Change Log
 
-## [v2.4.44] - 2026-07-05
+## [v2.4.45] - 2026-07-06
 🎉 fix preview and some other minor bugs... 
 
 ## [v2.4.43] - 2026-07-04
