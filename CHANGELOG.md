@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.46] - 2026-07-07
+🎉 fix native render and some other minor bugs... 
+
 ## [v2.4.45] - 2026-07-06
 🎉 fix preview and some other minor bugs... 
 
