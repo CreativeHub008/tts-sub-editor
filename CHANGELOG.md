@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.51] - 2026-07-12
+🎉 fix GPU rendering fixes include remaining bugs from the previous version and high-resolution rendering issues and some other minor bugs...
+
 ## [v2.4.50] - 2026-07-10
 🎉 fix render gpu decode outdated, update diarization and some other minor bugs... 
 
