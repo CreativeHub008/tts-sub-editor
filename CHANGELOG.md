@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.54] - 2026-07-18
+🎉 fix audio for render, update composition, docs and fix some other minor bugs...
+
 ## [v2.4.53] - 2026-07-17
 🎉 fix ocr engine, update docs, add translate via Agent, and fix some other minor bugs.
 
