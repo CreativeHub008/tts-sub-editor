@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.56] - 2026-07-22
+🎉 fix batch job, add graph, update sync mode, and fix some other minor bugs...
+
 ## [v2.4.55] - 2026-07-19
 🎉 fix render out of memory, ocr extraction engine and fix some other minor bugs...
 
