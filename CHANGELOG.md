@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.57] - 2026-07-22
+🎉 fix native render audio glitches, effects, fix ocr and some other minor bugs...
+
 ## [v2.4.56] - 2026-07-22
 🎉 fix batch job, add graph, update sync mode, and fix some other minor bugs...
 
