@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.59] - 2026-07-23
+🎉 fix aspect ratio export, fix preview audio muted and some other minor bugs...
+
 ## [v2.4.57] - 2026-07-22
 🎉 fix native render audio glitches, effects, fix ocr and some other minor bugs...
 
