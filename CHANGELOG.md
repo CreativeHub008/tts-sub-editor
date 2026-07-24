@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.60] - 2026-07-24
+🎉 fix memory optimization for native render and ocr engine, fix text renderer, ASR cloud and fix some other minor bugs...
+
 ## [v2.4.59] - 2026-07-23
 🎉 fix aspect ratio export, fix preview audio muted and some other minor bugs...
 
