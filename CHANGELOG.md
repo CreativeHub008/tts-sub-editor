@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.61] - 2026-07-26
+🎉 fix and update batch auto, and some other minor bugs...
+
 ## [v2.4.60] - 2026-07-24
 🎉 fix memory optimization for native render and ocr engine, fix text renderer, ASR cloud and fix some other minor bugs...
 
