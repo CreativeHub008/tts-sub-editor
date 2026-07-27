@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.62] - 2026-07-27
+🎉 update tutorial doc, fix render and some other minor bugs...
+
 ## [v2.4.61] - 2026-07-26
 🎉 fix and update batch auto, and some other minor bugs...
 
