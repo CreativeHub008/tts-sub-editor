@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.2] - 2026-07-30
+🎉 Optimized project saving, added feat editor to timeline, fixed keyframe handle, fixed batch automation and performance issues, and several other minor changes... 
+
 ## [v2.4.62] - 2026-07-27
 🎉 update tutorial doc, fix render and some other minor bugs...
 
