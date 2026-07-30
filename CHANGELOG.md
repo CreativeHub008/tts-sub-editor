@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.3] - 2026-07-30
+🎉 fix ocr engine, memory leak in gen voice task and some other minor bugs...
+
 ## [v2.5.2] - 2026-07-30
 🎉 Optimized project saving, added feat editor to timeline, fixed keyframe handle, fixed batch automation and performance issues, and several other minor changes... 
 
