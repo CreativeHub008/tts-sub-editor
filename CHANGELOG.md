@@ -1,6 +1,6 @@
 # 🧾 Change Log
 
-## [v2.5.4] - 2026-08-01
+## [v2.5.4] - 2026-07-31
 🎉 fix tools, crop media. update composition, render and some other minor bugs...
 
 ## [v2.5.3] - 2026-07-30
