@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.5] - 2026-08-02
+🎉 fix sync mode, translate task and some other minor bugs...
+
 ## [v2.5.4] - 2026-07-31
 🎉 fix tools, crop media. update composition, render and some other minor bugs...
 
