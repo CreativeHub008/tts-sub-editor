@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.6] - 2026-08-03
+🎉 fix translate task, db optimization and some other minor bugs...
+
 ## [v2.5.5] - 2026-08-02
 🎉 fix sync mode, translate task and some other minor bugs...
 
