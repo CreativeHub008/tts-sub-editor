@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.7] - 2026-08-04
+🎉🎉🎉 Fix ram overload, optimize performance and other changes!
+
 ## [v2.5.6] - 2026-08-03
 🎉 fix translate task, db optimization and some other minor bugs...
 
