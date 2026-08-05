@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.9] - 2026-08-06
+🎉 Fix Local TTS, Native render, TextNormalizer, Download tab and some other minor bugs...
+
 ## [v2.5.7] - 2026-08-04
 🎉🎉🎉 Fix ram overload, optimize performance and other changes!
 
