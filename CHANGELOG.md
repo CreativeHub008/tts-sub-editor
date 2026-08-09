@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.12] - 2026-08-09
+🎉 Fix cookie for Download tab, Timeline controls and Update composition, Effects, and some other minor bugs...
+
 ## [v2.5.10] - 2026-08-07
 🎉 Fix Native render, template, download tab, update composition and some other minor bugs...
 
