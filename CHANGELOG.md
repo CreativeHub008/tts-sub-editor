@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.15] - 2026-08-11
+🎉 Fix chroma key for native render, update Effects, Composition and includes all changes from v2.5.14 to above
+
 ## [v2.5.14] - 2026-08-10
 🎉 Update Douyin download, Add voice profile, Update Timeline, Batch mode and fix some other minor bugs...
 
