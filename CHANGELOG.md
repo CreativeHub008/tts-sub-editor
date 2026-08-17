@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.18] - 2026-08-17
+🎉 Update audio to srt, fix bugs and some other minor changes...
+
 ## [v2.5.16] - 2026-08-14
 🎉 Added import/export project, update voices list and fix some bugs...
 
