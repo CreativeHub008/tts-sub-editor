@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.19] - 2026-08-17
+🎉 Update ASR v2 punctuation, fix bugs and some other minor changes...
+
 ## [v2.5.18] - 2026-08-17
 🎉 Update audio to srt, fix bugs and some other minor changes...
 
