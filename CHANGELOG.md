@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.20] - 2026-08-19
+🎉 Update Composition feature, and includes all changes from v2.5.19 to above, and fix some bugs and some other minor changes...
+
 ## [v2.5.19] - 2026-08-17
 🎉 Update ASR v2 punctuation, fix bugs and some other minor changes...
 
