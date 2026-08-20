@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.21] - 2026-08-20
+🎉 Fix tts task, download tab, and some other minor bugs...
+
 ## [v2.5.20] - 2026-08-19
 🎉 Update Composition feature, and includes all changes from v2.5.19 to above, and fix some bugs and some other minor changes...
 
