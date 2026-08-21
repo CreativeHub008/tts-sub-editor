@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.22] - 2026-08-21
+🎉 Fix translate task, download tab, add gemini retry quota, update Composition and fix some other minor bugs...
+
 ## [v2.5.21] - 2026-08-20
 🎉 Fix tts task, download tab, and some other minor bugs...
 
