@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.23] - 2026-08-22
+🎉 Update translate task, fix download tab, auto batch job, and some other minor bugs...
+
 ## [v2.5.22] - 2026-08-21
 🎉 Fix translate task, download tab, add gemini retry quota, update Composition and fix some other minor bugs...
 
