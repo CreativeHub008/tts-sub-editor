@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.27] - 2026-08-27
+🎉 Fix Audio preview, fix Native renderer Audio Ram optimization for long video and improve rendering, and some other minor bugs...
+
 ## [v2.5.26] - 2026-08-27
 🎉 Fix Download tab, fix Preview|Timeline, update Native render, add new TTS Api and some other minor bugs...
 
