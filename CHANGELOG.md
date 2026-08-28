@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.29] - 2026-08-28
+🎉 Fix Sidecar crash, Local TTS Provider add batch processing, and some other minor bugs...
+
 ## [v2.5.27] - 2026-08-27
 🎉 Fix Audio preview, fix Native renderer Audio Ram optimization for long video and improve rendering, and some other minor bugs...
 
