@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.30] - 2026-08-29
+🎉 Update LocalTTS batch processing, update Sidecar stt, fix Preview, and some other minor bugs...
+
 ## [v2.5.29] - 2026-08-28
 🎉 Fix Sidecar crash, Local TTS Provider add batch processing, and some other minor bugs...
 
