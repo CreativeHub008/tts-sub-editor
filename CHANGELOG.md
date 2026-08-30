@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.31] - 2026-08-30
+🎉 Fix Preview/Timeline and other minor bugs...
+
 ## [v2.5.30] - 2026-08-29
 🎉 Update LocalTTS batch processing, update Sidecar stt, fix Preview, and some other minor bugs...
 
