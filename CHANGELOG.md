@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.33] - 2026-09-04
+🎉 Update Cloud STT, Update text Effect feature, add link track and fix sync mode link track, some other minor bugs...
+
 ## [v2.5.31] - 2026-08-30
 🎉 Fix Preview/Timeline and other minor bugs...
 
