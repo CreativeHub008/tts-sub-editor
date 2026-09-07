@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.35] - 2026-09-08
+🎉 Fix path model for ASR v3...
+
 ## [v2.5.34] - 2026-09-06
 🎉 Update ASR Local (STT) and add ASR v3, and fix some other minor bugs...
 
