@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.36] - 2026-09-09
+🎉 Update ASR add thread processing, fix template resolution and some other minor bugs...
+
 ## [v2.5.35] - 2026-09-08
 🎉 Fix path model for ASR v3...
 
