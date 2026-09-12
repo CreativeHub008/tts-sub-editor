@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.37] - 2026-09-12
+🎉 Add Text template, fix image capture, fixed asset multi-track export and some other minor bugs...
+
 ## [v2.5.36] - 2026-09-09
 🎉 Update ASR add thread processing, fix template resolution and some other minor bugs...
 
