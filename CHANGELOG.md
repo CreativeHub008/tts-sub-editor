@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.40] - 2026-09-14
+🎉 Fix Preview/Sync Mode, add mcp service and update some other minor changes...
+
 ## [v2.5.38] - 2026-09-13
 🎉 Update Local TTS, Add Text template, fix image capture, fixed/update asset multi-track export and some other minor bugs...
 
