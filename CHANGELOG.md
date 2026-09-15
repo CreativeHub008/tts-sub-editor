@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.41] - 2026-09-15
+🎉 Update Fonts/Caption/Subtitle style for Preview/Render, fix Unicode text and some other minor bugs...
+
 ## [v2.5.40] - 2026-09-14
 🎉 Fix Preview/Sync Mode, add mcp service and update some other minor changes...
 
