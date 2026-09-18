@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.44] - 2026-09-18
+🎉 Fix Native render, fix Sidercar path err, add WIP record and update some other minor changes...
+
 ## [v2.5.42] - 2026-09-17
 🎉 Update Batch mode, fix SyncMode/Native renderer EQ/Audio, and some other minor bugs...
 
