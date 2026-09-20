@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.45] - 2026-09-20
+🎉 Update Composition feature and fix bugs...
+
 ## [v2.5.44] - 2026-09-18
 🎉 Fix Native render, fix Sidercar path err, add WIP record and update some other minor changes...
 
