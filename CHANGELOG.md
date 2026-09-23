@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.46] - 2026-09-23
+🎉 Update Composition, text style state, wip and some other minor changes...
+
 ## [v2.5.45] - 2026-09-20
 🎉 Update Composition feature and fix bugs...
 
