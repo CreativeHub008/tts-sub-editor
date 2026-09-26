@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.47] - 2026-09-26
+🎉 Update VAD voice mode some other minor changes...
+
 ## [v2.5.46] - 2026-09-23
 🎉 Update Composition, text style state, wip and some other minor changes...
 
