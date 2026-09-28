@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.48] - 2026-09-28
+🎉 Update Diarization, Voice Style, Fix some other minor bugs...
+
 ## [v2.5.47] - 2026-09-26
 🎉 Update VAD voice mode some other minor changes...
 
