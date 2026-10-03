@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.50] - 2026-10-03
+🎉 Update ASR STT and fix some other minor bugs...
+
 ## [v2.5.49] - 2026-09-29
 🎉 Update Diarization, Fix voiceover slot in native render and fix some other minor bugs...
 
