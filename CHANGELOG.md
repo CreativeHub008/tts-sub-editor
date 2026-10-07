@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.52] - 2026-10-07
+🎉 Fix Separate audio and some other minor bugs...
+
 ## [v2.5.51] - 2026-10-04
 🎉 Update TTS Nomazile, TTS TextNormalizer and fix some other minor bugs...
 
