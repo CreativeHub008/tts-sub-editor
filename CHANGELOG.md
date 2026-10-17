@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.55] - 2026-10-17
+🎉 Update Timeline Trim ripple and some other minor bugs...
+
 ## [v2.5.54] - 2026-10-12
 🎉 Update Voice Profile, add trace bug for render and fix some other minor bugs...
 
