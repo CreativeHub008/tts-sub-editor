@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.57] - 2026-10-20
+🎉 Update Audio Separate, and fix some other minor bugs...
+
 ## [v2.5.55] - 2026-10-17
 🎉 Update Timeline Trim ripple and some other minor bugs...
 
