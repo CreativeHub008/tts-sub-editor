@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.59] - 2026-10-22
+🎉 Update Native Render, Separate, Color Correction and fix some other minor bugs...
+
 ## [v2.5.57] - 2026-10-20
 🎉 Update Audio Separate, and fix some other minor bugs...
 
