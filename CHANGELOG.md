@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.60] - 2026-10-24
+🎉 Update Download tab and some other minor bugs...
+
 ## [v2.5.59] - 2026-10-22
 🎉 Update Native Render, Separate, Color Correction and fix some other minor bugs...
 
