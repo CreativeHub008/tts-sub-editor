@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.62] - 2026-10-25
+🎉 Update Edge TTS, Native renderer, fix some other minor bugs...
+
 ## [v2.5.60] - 2026-10-24
 🎉 Update Download tab and some other minor bugs...
 
