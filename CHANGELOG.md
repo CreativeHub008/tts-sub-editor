@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.5.63] - 2026-10-26
+🚀 Fix color range for native render, update tools and some other minor bugs...
+
 ## [v2.5.62] - 2026-10-25
 🎉 Update Edge TTS, Native renderer, fix some other minor bugs...
 
