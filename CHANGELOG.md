@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.2] - 2026-11-02
+🎉 Updated error handling and tracing for certain functions, updated preview/timeline tabs.
+
 ## [v2.6.1] - 2026-11-01
 🎉 Update Ocr engine add TRT, separate music add new MDX engine support TRT, Timeline updates provide a better experience. Adding subtitle preprocessing results in greater accuracy, text/image motion path, Sync fit. And fixes include replacing updated text and correcting many other remaining bugs.
 
