@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.3] - 2026-11-03
+🚀 Fix parse data in TTS and update  services Terms.
+
 ## [v2.6.2] - 2026-11-02
 🎉 Updated error handling and tracing for certain functions, updated preview/timeline tabs.
 
