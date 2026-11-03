@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.4] - 2026-11-03
+🎉 Updated Native renderer/Timeline and some other minor bugs...
+
 ## [v2.6.3] - 2026-11-03
 🚀 Fix parse data in TTS and update  services Terms.
 
