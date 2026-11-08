@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.7] - 2026-11-08
+🎉 Updated Native render for long videos, fixed project draft export, fix lỗi ở v2.6.6, renamed tools, and made several other minor changes.
+
 ## [v2.6.6] - 2026-11-08
 🎉 Updated Native render for long videos, fixed project draft export, removed unused libraries, renamed tools, and made several other minor changes.
 
