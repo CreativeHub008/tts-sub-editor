@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.6] - 2026-11-08
+🎉 Updated Native render for long videos, fixed project draft export, removed unused libraries, renamed tools, and made several other minor changes.
+
 ## [v2.6.4] - 2026-11-03
 🎉 Updated Native renderer/Timeline and some other minor bugs...
 
