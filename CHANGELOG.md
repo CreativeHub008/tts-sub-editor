@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.8] - 2026-11-09
+🎉 Updated FFmpeg (LGPL build), added WAV support for large audio (>4GB), fixed Extra Track alignment in Sync Mode, optimized SRT import and Timeline/Preview resize performance, and made several other minor changes.
+
 ## [v2.6.7] - 2026-11-08
 🎉 Updated Native render for long videos, fixed project draft export, fix lỗi ở v2.6.6, renamed tools, and made several other minor changes.
 
