@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.9] - 2026-11-10
+🎉 Add concurrent job execution and log capture to ffmpeg, add support for AV1 video conversion and encoder probing, add AV1 encoding support and format options, and made several other minor changes.
+
 ## [v2.6.8] - 2026-11-09
 🎉 Updated FFmpeg (LGPL build), added WAV support for large audio (>4GB), fixed Extra Track alignment in Sync Mode, optimized SRT import and Timeline/Preview resize performance, and made several other minor changes.
 
