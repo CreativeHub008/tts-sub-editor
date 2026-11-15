@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.10] - 2026-11-15
+🎉 Added native preview and fixed potential bugs, such as composition/native export and many other minor bugs...
+
 ## [v2.6.9] - 2026-11-10
 🎉 Add concurrent job execution and log capture to ffmpeg, add support for AV1 video conversion and encoder probing, add AV1 encoding support and format options, and made several other minor changes.
 
