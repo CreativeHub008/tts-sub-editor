@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.6.12] - 2026-11-22
+🎉 Fix Translate task, Native render and some other minor bugs...
+
 ## [v2.6.10] - 2026-11-15
 🎉 Added native preview and fixed potential bugs, such as composition/native export and many other minor bugs...
 
